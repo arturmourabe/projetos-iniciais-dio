@@ -1,2 +1,2 @@
-# projetos-iniciais-dio
-projetos-iniciais
+# Projeto inicial Git/GitHub
+Repositório criado para o projeto inicial.
